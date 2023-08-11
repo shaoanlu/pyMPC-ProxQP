@@ -1,7 +1,7 @@
 # pyMPC-ProxQP
 
 ### WIP alert: The code within this reposity is in a WIP state and may not have undergone rigorous testing and may exhibit instability. Use at your own discretion.
-This repository is a fork from [forgi86/pyMPC](https://github.com/forgi86/pyMPC/blob/master/pyMPC/mpc.py) with additional feature that replace OSQP with ProxQP. Preliminary experiments on `examples/example_inverted_pendulum.py` sometime ran faster than OSQP.
+This repository is a fork from [forgi86/pyMPC](https://github.com/forgi86/pyMPC/blob/master/pyMPC/mpc.py) with an additional feature that replaces OSQP with ProxQP. Preliminary experiments on `examples/example_inverted_pendulum.py` sometime ran faster than OSQP.
 
 ## Requirements
 
